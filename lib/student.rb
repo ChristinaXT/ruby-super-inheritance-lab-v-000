@@ -1,2 +1,3 @@
 class Student
-  def 
+  def hello
+    
